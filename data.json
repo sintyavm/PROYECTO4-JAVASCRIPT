@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Huevos",
+        "precio": 55,
+        "img":
+        "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_008371/tienda_008371_abc9acefc96feaf9ab64c254cc801c68a4543cde_producto_large_90.jpg",
+        "cantidad": 1 
+    },
+    {
+        "id": 2,
+        "nombre": "Leche",
+        "precio": 70,
+        "img":
+        "https://eqonatura.com/wp-content/uploads/2020/09/not.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Harina",
+        "precio": 65,
+        "img":
+        "https://verdenaturalmarket.pe/575-large_default/harina-de-trigo-integral-precocida-500gr-buncker.jpg",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Azucar",
+        "precio": 80,
+        "img":
+        "https://plazavea.vteximg.com.br/arquivos/ids/2240222-512-512/20199904.jpg",
+        "cantidad": 1
+    }
+    ]
